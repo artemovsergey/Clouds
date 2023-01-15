@@ -1,5 +1,16 @@
 # Облака
 
+- https://timeweb.cloud/ 177
+- https://cloud.yandex.ru/  посекундно, удобно когда надо быстро развернуть
+- https://mcs.mail.ru/ есть тестовый период
+- https://www.reg.ru  370
+- https://www.cloudways.com/en/  есть триальный 3 дня
+- https://1cloud.ru/ 945
+- https://oblakoteka.ru/ 629
+- https://sbercloud.ru/ru 617
+
+
+
 # Хостинги
 
 https://www.back4app.com/
