@@ -155,8 +155,7 @@ https://elasticweb.org/ru/page/laravel-hosting
 
 https://ru.tophosts.net/rating-hosting-laravel
 
----
-Docker
+# Docker
 
 https://github.com/docker/awesome-compose
 
