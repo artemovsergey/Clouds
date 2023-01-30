@@ -181,5 +181,7 @@ https://amorev.ru/gmoreva-1-bash-docker-compose/
 # Тестирование
 
 DigitalOcean не принимает карты
+
 Hertner не принимает карты
+
 Fly.io не принимает карты
